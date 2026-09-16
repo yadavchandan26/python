@@ -16,4 +16,4 @@ for i in range(n-2): # -2 because we already knew the first two number and even 
     fibo_sequence.append(c)
     a,b=b,c
 
-fibo_sequence
+print(fibo_sequence)
