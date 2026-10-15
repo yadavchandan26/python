@@ -1,7 +1,5 @@
 a=int(input('enter a :'))
 b=int(input('enter b :'))
 
-print(a+b)
-print(a-b)
-print(a*b)
-print(a/b)
+operator=['+','-','/','*']
+print(f"choose what you want to do from {operator}")
